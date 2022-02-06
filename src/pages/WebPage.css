@@ -1,0 +1,27 @@
+.container1{
+    justify-content: normal;
+    margin-top: 90px;
+    display: flex;
+    margin-left: 10px;
+}
+
+.container2 {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 50%;
+}
+
+.form1{
+    border: 5px solid lightgray;
+    padding: 50px;
+}
+
+.input1{
+    border-color: lightgray;
+}
+
+.button1{
+    background-color: white;
+    border-radius: 5px;
+    border-color: lightgray;
+}
